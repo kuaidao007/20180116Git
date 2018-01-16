@@ -1,1 +1,2 @@
 this is new Git
+Creating a new branch is quick.
